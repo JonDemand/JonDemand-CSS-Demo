@@ -27,6 +27,7 @@ main{
    max-width: 1080px;
    margin: 0 auto;
    padding: 20px;
+   background-image: url("img/deep_space_starfield_with_a_blue_tint.webp");
 }
 main img{
     max-width: 100%;
