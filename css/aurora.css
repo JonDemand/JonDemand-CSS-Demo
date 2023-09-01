@@ -7,6 +7,7 @@ body{
 header{
     background-color: #0066cc;
     text-align: center;
+    margin: 100px 100px 0px 100px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -47,7 +48,9 @@ footer{
     background-color:#0066cc;
     text-align: center;
     color: white;
+    margin: 0px 100px 0px 100px;
     padding: 50px;
+
 }
 footer p{
     margin: 0;
@@ -60,8 +63,14 @@ footer a:hover{
     background-color: transparent;
 }
 p.caption{
+    margin: 440px 0px 0px 440px;
+    background-color: black;
+    width: 200px;
+    padding: 5px;
+    border: 5px solid #0066cc;
     color: #999999;
     font-style: italic;
     text-align: center;
     margin-top: 0;
+    box-sizing: border-box;
 }
